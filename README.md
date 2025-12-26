@@ -87,13 +87,13 @@
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=jbmpaz&show_icons=true&theme=tokyonight"
 />
 
+<br clear="both" />
+
 <img 
   align="left"
   width="350"
   height="200"
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jbmpaz&layout=compact&theme=tokyonight"
 />
-
-<br clear="both" />
 
 </p>
