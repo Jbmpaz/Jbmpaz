@@ -80,14 +80,17 @@
 ## 📊 Estatísticas
 
 <p>
-  <img 
-  align="left"
-  height="200"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=jbmpaz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+    <img 
+        align="left"
+        alt="GitHub Stats" 
+        width="495"
+        height="200"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=jbmpaz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
     <img
         align="left" 
         alt="GitHub Stats" 
+        width="400"
         height="200" 
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jbmpaz&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=3600" 
     />
