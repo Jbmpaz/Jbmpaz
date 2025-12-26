@@ -84,10 +84,9 @@
   align="left"
   width="400"
   height="200"
+       style="margin-bottom: 20px;"
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=jbmpaz&show_icons=true&theme=tokyonight"
 />
-
-<br clear="both" />
 
 <img 
   align="left"
