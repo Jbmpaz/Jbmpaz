@@ -82,7 +82,7 @@
 <p>
    <img 
   align="left"
-  width="350"
+  width="400"
   height="200"
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=jbmpaz&show_icons=true&theme=tokyonight"
 />
