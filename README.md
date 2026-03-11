@@ -53,9 +53,33 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bitbucket" 
+    title="Bitbucket"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" 
+/>
+
 
 <br/>
-<br/>
+
+## 🧠 Conhecimentos adicionais
+
+* Conhecimentos Básicos de **SEO** On-page
+* Criação e manutenção de script em **Python** com auxilio de IA
+
+
+
 
 ---
 
@@ -74,6 +98,7 @@
   align="left"
   width="350"
   height="200"
+  style="margin-left: 10px;"
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jbmpaz&layout=compact&theme=tokyonight"
 />
 
