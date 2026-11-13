@@ -1,9 +1,10 @@
 # 🖥️ Joel Batista
 
-**`Desenvolvedor Front End`**
+**`Desenvolvedor Front End`**<br>
 
+Sou Desenvolvedor Front-end. Trabalho com criação e manutenção de páginas e landing pages, sites em PHP e WordPress, interfaces responsivas e atividades de SEO técnico.
 
-## { } Linguagens e Tecnologias
+### ⚙️ Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -31,14 +32,6 @@
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -47,59 +40,28 @@
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Tailwind" 
+    title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 
-    alt="Github" 
-    title="Github"
+    alt="WordPress" 
+    title="WordPress"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bitbucket" 
-    title="Bitbucket"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
 />
 
-
-<br/>
-
-## 🧠 Conhecimentos adicionais
-
-* Conhecimentos Básicos de **SEO** On-page
-* Criação e manutenção de script em **Python** com auxilio de IA
-
-
-
+<br>
 
 ---
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
-<p>
-   <img 
-  align="left"
-  width="400"
-  height="200"
-       style="margin-bottom: 50px;"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=jbmpaz&show_icons=true&theme=tokyonight"
-/>
-
-<img 
-  align="left"
-  width="350"
-  height="200"
-  style="margin-left: 10px;"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jbmpaz&layout=compact&theme=tokyonight"
-/>
-
+<p align="center">
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=jbmpaz&show_icons=true&theme=tokyonight" width="400" alt="Estatísticas do GitHub de Joel" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=jbmpaz&layout=compact&theme=tokyonight" width="350" alt="Linguagens mais usadas por Joel" />
 </p>
