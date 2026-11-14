@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**<br>
 
-Sou Desenvolvedor Front-end. Trabalho com criação e manutenção de páginas e landing pages, sites em PHP e WordPress, interfaces responsivas e atividades de SEO técnico.
+Sou Desenvolvedor Front-end. Trabalho com criação e manutenção de sites e landing pages, trabalho com sites em PHP e WordPress, crio interfaces responsivas e realizo atividades de SEO técnico.
 
 ### ⚙️ Linguagens e Tecnologias
 
